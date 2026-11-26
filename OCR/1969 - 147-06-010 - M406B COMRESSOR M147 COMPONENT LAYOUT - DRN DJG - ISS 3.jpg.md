@@ -32,7 +32,7 @@ Wiki page: [M147](../../../../PAGES/M147.md)
 - **Dots (junctions):** 2
 - **Words (OCR):** 14 in 14 lines: IEL · L0 · 09 · 38 · 09 · I8 · ~ab · 28 · 28 · 03 · duuee · 48 0
 
-Every curve, box, word and wire group: [1969 - 147-06-010 - M406B COMRESSOR M147 COMPONENT LAYOUT - DRN DJG - ISS 3 (traced).json](../SCHEMATICS/1969%20-%20147-06-010%20-%20M406B%20COMRESSOR%20M147%20COMPONENT%20LAYOUT%20-%20DRN%20DJG%20-%20ISS%203%20(traced).json) (the CAD file: `1969 - 147-06-010 - M406B COMRESSOR M147 COMPONENT LAYOUT - DRN DJG - ISS 3 (traced).dxf`).
+Every curve, box, word and wire group: [1969 - 147-06-010 - M406B COMRESSOR M147 COMPONENT LAYOUT - DRN DJG - ISS 3 (traced).json](../SCHEMATICS/1969%20-%20147-06-010%20-%20M406B%20COMRESSOR%20M147%20COMPONENT%20LAYOUT%20-%20DRN%20DJG%20-%20ISS%203%20%28traced%29.json) (the CAD file: `1969 - 147-06-010 - M406B COMRESSOR M147 COMPONENT LAYOUT - DRN DJG - ISS 3 (traced).dxf`).
 
 ## Full text
 
