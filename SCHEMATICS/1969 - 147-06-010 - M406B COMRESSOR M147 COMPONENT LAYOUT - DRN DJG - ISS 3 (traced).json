@@ -1,0 +1,85 @@
+{
+ "drawing": "Modules/UNSORTED/M147/SCHEMATICS/1969 - 147-06-010 - M406B COMRESSOR M147 COMPONENT LAYOUT - DRN DJG - ISS 3.jpg",
+ "version": 1,
+ "trace": "_traces/d5c554d03ddf6261.svg",
+ "sheet": {
+  "number": "B 147-06-010",
+  "title": "M406B COMRESSOR / M147 COMPONENT LAYOUT",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": false,
+  "rotate": 0,
+  "px": [1414, 2000],
+  "mm": [305.3, 431.8],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [-0.1, 1.0, 278.7, 426.8],
+ "outlines": {
+  "line": {"rings": 1081, "straight": {"n": 12202, "mm": 14674.3}, "curved": {"n": 3465, "mm": 3437.2}},
+  "text": {"rings": 307, "straight": {"n": 2683, "mm": 2647.3}, "curved": {"n": 801, "mm": 895.1}}
+ },
+ "circles": [
+  {"c": [90.1, 144.0], "r": 7.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [89.3, 235.9], "r": 7.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [114.8, 134.7], "r": 6.1, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.4},
+  {"c": [109.7, 100.6], "r": 6.0, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.4},
+  {"c": [114.9, 79.0], "r": 6.0, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.4},
+  {"c": [114.7, 61.1], "r": 6.0, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.4},
+  {"c": [117.2, 294.3], "r": 5.9, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.5},
+  {"c": [89.6, 262.8], "r": 5.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [114.4, 77.0], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [114.5, 132.9], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [98.1, 326.2], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [269.4, 334.6, 278.3, 402.4], "w": 8.9, "h": 67.8, "from": "ring"},
+  {"mm": [269.7, 321.4, 278.3, 334.0], "w": 8.7, "h": 12.6, "from": "ring"},
+  {"mm": [250.8, 242.0, 269.4, 320.2], "w": 18.6, "h": 78.2, "from": "ring"},
+  {"mm": [232.3, 242.0, 250.7, 320.0], "w": 18.4, "h": 78.0, "from": "ring"},
+  {"mm": [114.2, 241.6, 136.5, 248.7], "w": 22.3, "h": 7.1, "from": "ring"},
+  {"mm": [251.1, 204.0, 260.4, 241.6], "w": 9.3, "h": 37.6, "from": "ring"},
+  {"mm": [260.8, 203.8, 269.5, 241.6], "w": 8.7, "h": 37.8, "from": "ring"},
+  {"mm": [232.5, 204.0, 241.4, 241.4], "w": 8.9, "h": 37.4, "from": "ring"},
+  {"mm": [241.8, 204.0, 250.7, 241.4], "w": 8.9, "h": 37.4, "from": "ring"},
+  {"mm": [242.0, 189.6, 250.7, 202.8], "w": 8.7, "h": 13.2, "from": "ring"},
+  {"mm": [251.1, 189.5, 260.4, 202.8], "w": 9.3, "h": 13.3, "from": "ring", "words": ["duuee"]},
+  {"mm": [232.5, 189.5, 241.4, 202.5], "w": 8.9, "h": 13.0, "from": "ring"},
+  {"mm": [73.8, 164.5, 84.4, 167.5], "w": 10.6, "h": 3.0, "from": "ring"},
+  {"mm": [133.6, 129.9, 137.7, 143.4], "w": 4.2, "h": 13.4, "from": "ring"},
+  {"mm": [79.0, 125.2, 85.9, 129.3], "w": 6.9, "h": 4.1, "from": "ring"},
+  {"mm": [88.1, 105.8, 92.2, 118.3], "w": 4.1, "h": 12.5, "from": "ring"},
+  {"mm": [103.4, 78.6, 106.0, 88.5], "w": 2.6, "h": 9.9, "from": "ring"},
+  {"mm": [78.8, 67.4, 85.3, 71.0], "w": 6.5, "h": 3.7, "from": "ring"}
+ ],
+ "text": {
+  "words": 14,
+  "lines": [
+   {"mm": [220.4, 319.3, 256.5, 371.1], "text": "IEL"},
+   {"mm": [114.2, 326.2, 124.6, 330.5], "text": "L0"},
+   {"mm": [91.5, 307.4, 100.2, 311.3], "text": "09"},
+   {"mm": [119.8, 275.3, 130.2, 283.4], "text": "38"},
+   {"mm": [91.5, 277.2, 99.7, 282.0], "text": "09"},
+   {"mm": [117.2, 250.4, 125.9, 257.4], "text": "I8"},
+   {"mm": [114.6, 222.2, 130.4, 227.4], "text": "~ab"},
+   {"mm": [79.9, 208.3, 89.6, 214.8], "text": "28"},
+   {"mm": [79.9, 201.4, 89.2, 207.9], "text": "28"},
+   {"mm": [121.1, 201.7, 130.4, 207.2], "text": "03"},
+   {"mm": [233.4, 188.7, 278.3, 205.0], "text": "duuee"},
+   {"mm": [87.0, 168.0, 100.4, 174.9], "text": "48 0"},
+   {"mm": [32.6, 134.1, 43.8, 149.7], "text": "33"},
+   {"mm": [126.3, 66.5, 142.5, 81.6], "text": "2 U"}
+  ]
+ },
+ "dots": [{"c": [127.0, 279.0], "r": 0.9, "lines": 0}, {"c": [101.2, 69.1], "r": 1.2, "lines": 0}],
+ "summary": [
+  "- **Sheet:** component layout B 147-06-010, size B 305 × 432 mm, 1414 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–279 mm across, 1–427 mm up",
+  "- **Outlines:** line 1,081 rings, 12,202 straight (14,674 mm) / 3,465 curved (3,437 mm); text 307 rings, 2,683 straight (2,647 mm) / 801 curved (895 mm)",
+  "- **Circles and arcs:** 11 circles, 0 arcs; largest r 7.7 @ (90.1, 144.0), r 7.7 @ (89.3, 235.9), r 6.1 @ (114.8, 134.7), r 6.0 @ (109.7, 100.6)",
+  "- **Closed boxes:** 18; named: duuee",
+  "- **Dots (junctions):** 2",
+  "- **Words (OCR):** 14 in 14 lines: IEL · L0 · 09 · 38 · 09 · I8 · ~ab · 28 · 28 · 03 · duuee · 48 0"
+ ]
+}

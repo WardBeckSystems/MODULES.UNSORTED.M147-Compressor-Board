@@ -1,0 +1,63 @@
+{
+ "drawing": "Modules/UNSORTED/M147/SCHEMATICS/1969 - 147-06-010 - M406B COMRESSOR M147 COMPONENT LAYOUT - DRN DJG - ISS 6.jpg",
+ "version": 1,
+ "trace": "_traces/2d04b22eac71de74.svg",
+ "sheet": {
+  "number": "B 147-06-010",
+  "title": "M406B COMRESSOR / M147 COMPONENT LAYOUT",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": false,
+  "rotate": 270,
+  "px": [2000, 1414],
+  "mm": [431.8, 305.3],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 19.2, 430.8, 305.3],
+ "outlines": {
+  "line": {"rings": 1438, "straight": {"n": 14590, "mm": 15373.5}, "curved": {"n": 4378, "mm": 4267.0}},
+  "text": {"rings": 356, "straight": {"n": 3092, "mm": 2767.3}, "curved": {"n": 968, "mm": 1052.4}}
+ },
+ "circles": [
+  {"c": [143.1, 208.0], "r": 7.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [133.7, 183.4], "r": 6.1, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.5},
+  {"c": [77.9, 183.5], "r": 6.0, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.5},
+  {"c": [293.2, 180.3], "r": 5.9, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.6},
+  {"c": [60.0, 183.7], "r": 5.8, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.7},
+  {"c": [261.8, 208.1], "r": 5.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [182.8, 173.6], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [340.7, 48.1], "r": 2.5, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.8},
+  {"c": [131.9, 183.7], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [325.0, 199.5], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [124.4, 212.4, 128.2, 219.1], "w": 3.9, "h": 6.7, "from": "ring"},
+  {"mm": [290.2, 195.6, 295.1, 208.6], "w": 5.0, "h": 13.0, "from": "ring"},
+  {"mm": [77.5, 192.6, 87.4, 195.0], "w": 10.0, "h": 2.4, "from": "ring"},
+  {"mm": [59.8, 192.5, 70.0, 195.0], "w": 10.1, "h": 2.4, "from": "ring"},
+  {"mm": [240.9, 161.7, 247.2, 183.1], "w": 6.3, "h": 21.4, "from": "ring"},
+  {"mm": [300.1, 166.5, 304.4, 178.5], "w": 4.3, "h": 12.1, "from": "ring"},
+  {"mm": [282.1, 162.1, 297.9, 166.9], "w": 15.8, "h": 4.8, "from": "ring"},
+  {"mm": [188.3, 56.6, 201.2, 65.5], "w": 13.0, "h": 8.9, "from": "ring"},
+  {"mm": [202.5, 56.3, 239.9, 65.4], "w": 37.4, "h": 9.1, "from": "ring"},
+  {"mm": [319.7, 56.6, 423.8, 65.3], "w": 104.1, "h": 8.7, "from": "ring"},
+  {"mm": [240.5, 47.1, 318.5, 65.2], "w": 78.0, "h": 18.1, "from": "ring"},
+  {"mm": [202.5, 47.2, 240.1, 56.2], "w": 37.6, "h": 9.0, "from": "ring"},
+  {"mm": [188.3, 47.2, 201.4, 56.1], "w": 13.2, "h": 8.9, "from": "ring"},
+  {"mm": [202.5, 37.5, 239.9, 47.1], "w": 37.5, "h": 9.6, "from": "ring"},
+  {"mm": [240.5, 28.4, 318.5, 46.9], "w": 78.0, "h": 18.5, "from": "ring"},
+  {"mm": [208.8, 28.5, 239.9, 37.2], "w": 31.1, "h": 8.7, "from": "ring"}
+ ],
+ "text": {"words": 0, "lines": [], "note": "no OCR words typed in (the sheet was read turned, or no words were found)"},
+ "dots": [{"c": [68.2, 197.3], "r": 1.0, "lines": 0}],
+ "summary": [
+  "- **Sheet:** component layout B 147-06-010, size B 432 × 305 mm, 2000 × 1414 px traced (0.216 mm/px), turned 270°",
+  "- **Ink extent:** 0–431 mm across, 19–305 mm up",
+  "- **Outlines:** line 1,438 rings, 14,590 straight (15,374 mm) / 4,378 curved (4,267 mm); text 356 rings, 3,092 straight (2,767 mm) / 968 curved (1,052 mm)",
+  "- **Circles and arcs:** 10 circles, 0 arcs; largest r 7.6 @ (143.1, 208.0), r 6.1 @ (133.7, 183.4), r 6.0 @ (77.9, 183.5), r 5.9 @ (293.2, 180.3)",
+  "- **Closed boxes:** 16",
+  "- **Dots (junctions):** 1"
+ ]
+}
