@@ -1,6 +1,6 @@
 # M147 Compressor Board · Dynamics
 
-Ward-Beck Systems M147, 1968|1. Wiki page: [M147 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M147.html)
+Ward-Beck Systems M147, 1968|1. Wiki page: [M147 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.DYNAMICS.M147-Compressor-Board/)
 
 | Folder | What is in it | Files |
 |---|---|---|

@@ -1,5 +1,5 @@
 # 1969 - 147-06-010 - M406B COMRESSOR M147 COMPONENT LAYOUT - DRN DJG - ISS 6.jpg
-Wiki page: [M147](../../../../PAGES/M147.md)
+Wiki page: [M147](../)
 
 
 - **Year:** 1969 (title block date)

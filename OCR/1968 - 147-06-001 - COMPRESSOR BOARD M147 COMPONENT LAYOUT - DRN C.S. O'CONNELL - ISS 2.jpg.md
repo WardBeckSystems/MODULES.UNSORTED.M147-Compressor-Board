@@ -1,5 +1,5 @@
 # 1968 - 147-06-001 - COMPRESSOR BOARD M147 COMPONENT LAYOUT - DRN C.S. O'CONNELL - ISS 2.jpg
-Wiki page: [M147](../../../../PAGES/M147.md)
+Wiki page: [M147](../)
 
 
 - **Year:** 1968 (title block date)
